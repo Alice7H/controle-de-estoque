@@ -1,0 +1,9 @@
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Ferramentas\bin\Debug\Ferramentas.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Ferramentas\obj\Debug\Ferramentas.csprojResolveAssemblyReference.cache

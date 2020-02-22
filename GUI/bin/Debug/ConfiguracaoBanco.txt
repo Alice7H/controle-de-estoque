@@ -1,0 +1,4 @@
+LAPTOP-S60FG3D3\SQLEXPRESS
+db_controledeestoque
+usuario
+senha

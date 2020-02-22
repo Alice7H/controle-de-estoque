@@ -1,0 +1,22 @@
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\bin\Debug\Ferramentas.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\bin\Debug\Ferramentas.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\BLL\obj\Debug\BLL.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\bin\Debug\BLL.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\bin\Debug\BLL.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\bin\Debug\DAL.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\bin\Debug\Ferramentas.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\bin\Debug\Modelo.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\bin\Debug\DAL.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\bin\Debug\Ferramentas.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\bin\Debug\Modelo.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\obj\Debug\BLL.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\BLL\obj\Debug\BLL.pdb

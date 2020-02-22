@@ -1,0 +1,10 @@
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema Venda c#\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Modelo\bin\Debug\Modelo.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Modelo\bin\Debug\Modelo.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Modelo\obj\Debug\Modelo.dll
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Modelo\obj\Debug\Modelo.pdb
+C:\Users\PC-a27\Desktop\Home\Sistema c#\ControleDeEstoque\Modelo\obj\Debug\Modelo.csprojResolveAssemblyReference.cache
